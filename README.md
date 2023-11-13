@@ -31,10 +31,7 @@ Se você quiser contribuir para o desenvolvimento deste projeto, siga estas etap
 5. Push para a sua branch: `git push origin feature/nova-funcionalidade`.
 6. Crie um pull request para a branch principal.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-**Desenvolvido por [Seu Nome]**
+**Desenvolvido por Larissa Schottz**
